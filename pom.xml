@@ -12,7 +12,7 @@
 	<artifactId>common-stereotypes</artifactId>
 	<packaging>jar</packaging>
 	<name>common-stereotypes</name>
-	<version>1.5</version>
+	<version>1.6-SNAPSHOT</version>
 
 	<description>
 		Common Stereotypes that are used for annotation and most usually Spring component annotation scans.
@@ -22,7 +22,7 @@
 		<url>https://github.com/uoa-group-applications/common-stereotypes</url>
 		<connection>scm:git:https://github.com/uoa-group-applications/common-stereotypes.git</connection>
 		<developerConnection>scm:git:git@github.com:uoa-group-applications/common-stereotypes.git</developerConnection>
-	  <tag>common-stereotypes-1.5</tag>
+	  <tag>HEAD</tag>
   </scm>
 
 	<dependencies>
